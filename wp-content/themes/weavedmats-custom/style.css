@@ -38,8 +38,8 @@ Tags:  one-column, two-columns, right-sidebar, left-sidebar, custom-header, cust
 --------------------------------------------------------------*/
 
 :root {
-	--primary-color:#443d2d;
-	--secondary-color: #817457;
+	--primary-color:#4a200e;
+	--secondary-color: #6e3015;
 
 	--tertiary-color: #000;
 	--quaternary-color:#fff;
@@ -156,7 +156,7 @@ Tags:  one-column, two-columns, right-sidebar, left-sidebar, custom-header, cust
   }
 
   h1.has-text-align-center{
-	font-family: 'FontsFree-Net-transcend-thin', sans-serif;
+	/* font-family: 'FontsFree-Net-transcend-thin', sans-serif; */
   }
 
   h2.has-text-align-center{
@@ -164,7 +164,8 @@ Tags:  one-column, two-columns, right-sidebar, left-sidebar, custom-header, cust
   }
 
   h3{
-	font-family: 'FontsFree-Net-transcend-thin', sans-serif;
+	/* font-family: 'FontsFree-Net-transcend-thin', sans-serif; */
+	font-family: 'anandablack-webfont', sans-serif;
 	font-size: 30px;
 	clear: both;
 	margin-top:auto;
@@ -172,7 +173,7 @@ Tags:  one-column, two-columns, right-sidebar, left-sidebar, custom-header, cust
   }
 
 h1.page-title-text{
-	font-family: 'FontsFree-Net-transcend-thin', sans-serif;
+	/* font-family: 'FontsFree-Net-transcend-thin', sans-serif; */
 	font-size: 30px;
 	clear: both;
 	margin-top:auto;
