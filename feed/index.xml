@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Weaved Mats</title>
+	<atom:link href="https://hunterhollows.github.io/weaved-mats-a4/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hunterhollows.github.io/weaved-mats-a4/</link>
+	<description></description>
+	<lastBuildDate>Mon, 31 Oct 2022 21:31:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://hunterhollows.github.io/weaved-mats-a4/wp-content/uploads/2022/10/cropped-flower-1-32x32.png</url>
+	<title>Weaved Mats</title>
+	<link>https://hunterhollows.github.io/weaved-mats-a4/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Test post</title>
+		<link>https://hunterhollows.github.io/weaved-mats-a4/test-post/</link>
+					<comments>https://hunterhollows.github.io/weaved-mats-a4/test-post/#respond</comments>
+		
+		<dc:creator><![CDATA[weavedmats]]></dc:creator>
+		<pubDate>Mon, 24 Oct 2022 23:36:16 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://hunterhollows.github.io/weaved-mats-a4/?p=135</guid>
+
+					<description><![CDATA[<p>&#8230;</p>
+<p>The post <a rel="nofollow" href="https://hunterhollows.github.io/weaved-mats-a4/test-post/">Test post</a> appeared first on <a rel="nofollow" href="https://hunterhollows.github.io/weaved-mats-a4/">Weaved Mats</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>&#8230;</p>
+<p>The post <a rel="nofollow" href="https://hunterhollows.github.io/weaved-mats-a4/test-post/">Test post</a> appeared first on <a rel="nofollow" href="https://hunterhollows.github.io/weaved-mats-a4/">Weaved Mats</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hunterhollows.github.io/weaved-mats-a4/test-post/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
